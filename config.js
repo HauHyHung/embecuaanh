@@ -1,8 +1,7 @@
-const nameGirl = 'Phương Ngân';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc em 14/3 vui vẻ';
-const titleCard = 'Tặng em';
-const contentCard = 'Chúc em ngày mô cũng tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau nữa nhá';
+const eventName = 'Chúc công chúa Bảo Trân ngày mới vui vẻ';
+const titleCard = 'Gửi công chúa xinh đẹp';
+const contentCard = 'Công chúa đi xe về cẩn thẩn, hong mệt mỏi nhaaa. Về tới vương quốc Long Xuyên thì có binh lính bộ tống rồi';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
