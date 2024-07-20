@@ -1,8 +1,8 @@
-const nameGirl = 'Bảo Trân';
+const nameGirl = 'Ngọc Diễm';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Bủi sáng vui vẻ công chúa';
-const titleCard = 'Gửi công chúa xinh đẹp';
-const contentCard = 'Công chúa đi đường xa cẩn thẩn. Về tới vương quốc Long Xuyên thì có binh lính hộ tống rồi';
+const eventName = 'Gửi nguoianhthuong';
+const titleCard = 'Anh có vài điều muốn nói';
+const contentCard = 'Anh thích công chúa nhỏ của anh lắm lắm lun, anh cảm ơn vì embe cũng thích anh. Chú học bài một xíu nha embe, cần gì thì gọi chú nhá <3';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
